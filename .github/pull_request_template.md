@@ -1,8 +1,23 @@
-<!-- 日本語と英語のどちらで書いても大丈夫です。 / You can write in Japanese or English. -->
+<!--
+タイトルと本文は日本語と英語を併記してください。タイトルの形式：日本語 / English
+変更内容・理由・検証結果（未実施やスキップを含む）を両言語で簡潔に記載してください。翻訳ツールも利用できます。
+Include both Japanese and English in the title and description. Title format: 日本語 / English
+Briefly describe the changes, reasons and validation results (including unrun or skipped checks) in both languages. You may use translation tools.
+-->
 
-## 変更の内容 / What this changes
+## 日本語
 
-## 確かめたこと / Checks
+### 変更の内容と理由
+
+### 確かめたこと
+
+## English
+
+### What this changes and why
+
+### Checks
+
+## 確認項目 / Checklist
 
 - [ ] `pnpm test`
 - [ ] `pnpm run check`
