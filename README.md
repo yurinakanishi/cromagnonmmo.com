@@ -47,6 +47,8 @@
 
 不具合の修正や改善のプルリクエストも受け付けます。
 
+プルリクエストのタイトルと本文は、このREADMEと同じように日本語と英語を併記してください。本文には変更内容・理由・検証結果を両言語で簡潔に書いてください。翻訳ツールも利用できます。詳しくは [参加のしかた](CONTRIBUTING.md) を参照してください。
+
 ### 特徴
 
 - 東西4,096 m・南北2,048 mの世界。海岸線は、NOAAの地形データと当時の海面（−68.3 m）から作っています。
@@ -161,6 +163,8 @@ Pull requests are very welcome! Above all, I am looking forward to new features.
 - Or any other idea you have
 
 Pull requests that fix bugs or improve things are welcome too.
+
+Please write pull request titles and descriptions in both Japanese and English, as in this README. Briefly describe the changes, reasons and validation results in both languages. You may use translation tools. See [Contributing](CONTRIBUTING.md) for details.
 
 ### Features
 
